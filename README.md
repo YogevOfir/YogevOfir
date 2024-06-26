@@ -1,4 +1,4 @@
-# Hi there, I'm Yogev 👋
+# Hi there, I'm [Yogev] 👋
 
 ## About Me
 I'm a ComputerScience student in my 3th year with a passion for software development and technology. I love working on innovative projects and learning new technologies.
@@ -19,21 +19,20 @@ I'm a ComputerScience student in my 3th year with a passion for software develop
 
 ## Projects
 ### Project 1: [Instagram Account Bot Detector](https://github.com/YogevOfir/Instagram-Bots-Identification)
-Description: A brief description of what this project does and why it’s interesting.
+Tools: AdaBoost, KNN, SVM, Regression, and Vectorization.
+Description: Several tools to identify if an Instagram account is fake or real.
 
-### Project 2: [Project Name](link)
-Description: A brief description of what this project does and why it’s interesting.
+### Project 2: [Secunity](https://github.com/Secunity-LTD/secunity_flutter)
+Tools: Android and iOS app using Flutter & Firebase.
+Description: Application for standby classes of localities in the Gaza Envelope and Samaria - worked as a project leader.
 
-### Project 3: [Project Name](link)
-Description: A brief description of what this project does and why it’s interesting.
 
-## Contributions
-- **Project Name**: Description of your contribution.
-- **Project Name**: Description of your contribution.
-- **Project Name**: Description of your contribution.
+### Project 3: [HTTP Website](https://github.com/YogevOfir/Networking_dns_htcp_http)
+Description: Created a DNS server and an HTTP application in the Networks course.
+
 
 ## Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](your-linkedin-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:your-email@example.com)
+[![https://www.linkedin.com/in/yogev-ofir-468082255/](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](your-linkedin-profile)
+[![yogev282000@gmail.com](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:your-email@example.com)
 
 Thank you for visiting my profile!
