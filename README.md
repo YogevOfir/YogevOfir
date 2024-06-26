@@ -16,6 +16,8 @@ I'm a ComputerScience student in my 3th year with a passion for software develop
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
 
 ## Projects
 ### Project 1: [Instagram Account Bot Detector](https://github.com/YogevOfir/Instagram-Bots-Identification)
