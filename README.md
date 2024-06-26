@@ -1,4 +1,5 @@
-# Hi there, I'm [Yogev] 👋
+![banner](https://raw.githubusercontent.com/YogevOfir/YogevOfir/main/src/data.png)
+# Hi there, I'm Yogev 👋
 
 ## About Me
 I'm a ComputerScience student in my 3th year with a passion for software development and technology. I love working on innovative projects and learning new technologies.
