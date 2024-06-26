@@ -18,7 +18,7 @@ I'm a ComputerScience student in my 3th year with a passion for software develop
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 
 ## Projects
-### Project 1: [Instagram Account Bot Detector]([link](https://github.com/YogevOfir/Instagram-Bots-Identification))
+### Project 1: [Instagram Account Bot Detector][https://github.com/YogevOfir/Instagram-Bots-Identification]
 Description: A brief description of what this project does and why it’s interesting.
 
 ### Project 2: [Project Name](link)
