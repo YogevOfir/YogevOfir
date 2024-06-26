@@ -1,4 +1,3 @@
-![banner](https://raw.githubusercontent.com/YogevOfir/YogevOfir/main/src/data.png)
 # Hi there, I'm Yogev 👋
 
 ## About Me
@@ -18,6 +17,8 @@ I'm a ComputerScience student in my 3th year with a passion for software develop
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogevofir&layout=compact&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Projects
