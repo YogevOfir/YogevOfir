@@ -23,17 +23,17 @@ I'm a ComputerScience student in my 3th year with a passion for software develop
 
 ## Projects
 ### Project 1: [Instagram Account Bot Detector](https://github.com/YogevOfir/Instagram-Bots-Identification)
-**Description**: Several tools to identify if an Instagram account is fake or real.
+**Description**: Several tools to identify if an Instagram account is fake or real.<br>
 **Tools**: AdaBoost, KNN, SVM, Regression, and Vectorization.
 
 
 ### Project 2: [Secunity](https://github.com/Secunity-LTD/secunity_flutter)
-**Description**: Application for standby classes of localities in the Gaza Envelope and Samaria - worked as a project leader.
+**Description**: Application for standby classes of localities in the Gaza Envelope and Samaria - worked as a project leader.<br>
 **Tools**: Android and iOS app using Flutter & Firebase.
 
 
 ### Project 3: [HTTP Website](https://github.com/YogevOfir/Networking_dns_htcp_http)
-**Description**: Created a DNS server and an HTTP application in the Networks course.
+**Description**: Created a DNS server and an HTTP application in the Networks course.<br>
 **Tools**: Python 
 
 
