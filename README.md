@@ -38,7 +38,7 @@ I'm a ComputerScience student in my 3th year with a passion for software develop
 
 
 ## Contact
-[![https://www.linkedin.com/in/yogev-ofir-468082255/](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/yogev-ofir-468082255)
+[![https://www.linkedin.com/in/yogev-ofir-468082255](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](www.linkedin.com/in/yogev-ofir-468082255)
 [![yogev282000@gmail.com](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:yogev282000@gmail.com)
 
 
