@@ -38,8 +38,8 @@ I'm a ComputerScience student in my 3th year with a passion for software develop
 
 
 ## Contact
-[![https://www.linkedin.com/in/yogev-ofir-468082255/](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](your-linkedin-profile)
-[![yogev282000@gmail.com](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:your-email@example.com)
+[![https://www.linkedin.com/in/yogev-ofir-468082255/](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](linkedin.com/in/yogev-ofir-468082255)
+[![yogev282000@gmail.com](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:yogev282000@gmail.com)
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yogevofir&label=Profile%20views&color=blue&style=for-the-badge" alt="yogevofir" /> </p>
