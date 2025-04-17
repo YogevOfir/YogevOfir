@@ -30,7 +30,7 @@ I'm a ComputerScience student in my 3th year with a passion for software develop
 **Description**: A full-stack solution enhances field service operations by automating technician routing, dynamic schedule adjustments, and real-time tracking, while integrating Google API for directions and maps to calculate accurate ETAs and efficient routes.<br>
 **Tools**: Node.js, Express, ReactNative-Typescript, MongoDB, GoogleAPI's.
 
-### Project 3: [Secunity](https://github.com/Secunity-LTD/secunity_flutter)
+### Project 3: [Secunity - Secure the community Application](https://github.com/Secunity-LTD/secunity_flutter)
 **Description**: Application for standby classes of localities in the Gaza Envelope and Samaria - worked as a project leader.<br>
 **Tools**: Android and iOS app using Flutter & Firebase.
 
