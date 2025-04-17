@@ -22,19 +22,19 @@ I'm a ComputerScience student in my 3th year with a passion for software develop
 
 
 ## Projects
-### Project 1: [Instagram Account Bot Detector](https://github.com/YogevOfir/Instagram-Bots-Identification)
-**Description**: Several tools to identify if an Instagram account is fake or real.<br>
-**Tools**: AdaBoost, KNN, SVM, Regression, and Vectorization.
+### Project 1: [Semantic Template Matching for UAV Localization](https://github.com/YogevOfir/Semantic-Template-Matching-for-UAV-Localization.git)
+**Description**: A hybrid framework combines deep semantic segmentation with classical template matching, utilizing a UNetFormer-based network to transform UAV images into semantic maps and a correlation-based algorithm for precise localization in GNSS-denied areas.<br>
+**Tools**: Python, CV2, Pytorch.
 
+### Project 3: [TechNaim - Real-Time Tracking & Scheduling Application](https://github.com/YogevOfir/TechNaim.git)
+**Description**: A full-stack solution enhances field service operations by automating technician routing, dynamic schedule adjustments, and real-time tracking, while integrating Google API for directions and maps to calculate accurate ETAs and efficient routes.<br>
+**Tools**: Node.js, Express, ReactNative-Typescript, MongoDB, GoogleAPI's.
 
-### Project 2: [Secunity](https://github.com/Secunity-LTD/secunity_flutter)
+### Project 3: [Secunity](https://github.com/Secunity-LTD/secunity_flutter)
 **Description**: Application for standby classes of localities in the Gaza Envelope and Samaria - worked as a project leader.<br>
 **Tools**: Android and iOS app using Flutter & Firebase.
 
 
-### Project 3: [HTTP Website](https://github.com/YogevOfir/Networking_dns_htcp_http)
-**Description**: Created a DNS server and an HTTP application in the Networks course.<br>
-**Tools**: Python 
 
 
 ## Contact
