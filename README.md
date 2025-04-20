@@ -26,7 +26,7 @@ I'm a ComputerScience student in my 3th year with a passion for software develop
 **Description**: A hybrid framework combines deep semantic segmentation with classical template matching, utilizing a UNetFormer-based network to transform UAV images into semantic maps and a correlation-based algorithm for precise localization in GNSS-denied areas.<br>
 **Tools**: Python, CV2, Pytorch.
 
-### Project 3: [TechNaim - Real-Time Tracking & Scheduling Application](https://github.com/YogevOfir/TechNaim.git)
+### Project 2: [TechNaim - Real-Time Tracking & Scheduling Application](https://github.com/YogevOfir/TechNaim.git)
 **Description**: A full-stack solution enhances field service operations by automating technician routing, dynamic schedule adjustments, and real-time tracking, while integrating Google API for directions and maps to calculate accurate ETAs and efficient routes.<br>
 **Tools**: Node.js, Express, ReactNative-Typescript, MongoDB, GoogleAPI's.
 
